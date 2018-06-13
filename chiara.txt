@@ -1,3 +1,1 @@
-Another very interesting message!
-
-This is a second line added later
+This is the same file on my branch!
